@@ -1,0 +1,8 @@
+1,eswar,29-06-2023,black books,4040
+1,eswar,28-06-2002,green books,20
+2,batman,20-07-2023,notebooks,100
+2,batman,09-07-2023,stationary,3005
+1,eswar,01-07-2023,pen,5
+3,superman,01-01-2022,record books,350
+3,superman,31-12-2021,observations,450
+55,joker,08-04-2002,colors,400
